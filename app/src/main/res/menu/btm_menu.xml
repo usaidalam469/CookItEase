@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:icon="@drawable/outline_home_24"
+        android:id="@+id/homeFragment"/>
+    <item android:title="Browse"
+        android:icon="@drawable/baseline_search_24"
+        android:id="@+id/browseRecipeFragment"/>
+    <item android:title="Favorites"
+        android:icon="@drawable/baseline_favorite_border_24"
+        android:id="@+id/favoritesFragment"/>
+    <item android:title="Generate"
+        android:icon="@drawable/outline_dining_24"
+        android:id="@+id/generateRecipeFragment"/>
+</menu>
