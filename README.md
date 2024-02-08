@@ -15,28 +15,13 @@ CookItEase is an Android application that helps users find recipes based on the 
 1. **Favorites**:
    - Users can save their favorite recipes for easy access.
 
-## Screenshots (if available)
+## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-...
+![Screenshot 6](/Screenshots/Screenshot6.jpg)
+![Screenshot 1](/Screenshots/Screenshot1.jpg)
+![Screenshot 2](/Screenshots/Screenshot2.jpg)
+![Screenshot 3](/Screenshots/Screenshot3.jpg)
+![Screenshot 4](/Screenshots/Screenshot4.jpg)
+![Screenshot 5](/Screenshots/Screenshot5.jpg)
 
-## Installation
 
-[Instructions on how to install the app, including any dependencies or prerequisites]
-
-## Usage
-
-[Instructions on how to use the app, including any important steps or configurations]
-
-## Contributing
-
-[Instructions on how to contribute to the project, including guidelines for submitting pull requests or raising issues]
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-[List of any acknowledgements or credits for third-party libraries, resources, or inspiration]
